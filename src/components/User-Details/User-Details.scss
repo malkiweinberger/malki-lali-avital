@@ -1,0 +1,43 @@
+
+// Define styles for the form container
+.user-details-form {
+  max-width: 400px;
+  margin: auto;
+}
+
+// Style for form labels
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+// Style for form fields
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+// Style for error messages
+.error-message {
+  color: red;
+  margin-top: 5px;
+}
+
+// Style for submit button
+button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+// Style for form fields with errors
+.field-error {
+  border: 1px solid red;
+}
+
+
